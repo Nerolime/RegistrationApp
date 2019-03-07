@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weather>
+  <User>
+    <Email>jan2602@mail.ru</Email>
+    <Phone>87009144444</Phone>
+    <Password>412341</Password>
+    <City>Astana</City>
+    <Age>21</Age>
+  </User>
+  <User>
+    <Email>jan260298@gmail.com</Email>
+    <Phone>89266884388</Phone>
+    <Password>892062</Password>
+    <City>Moscow</City>
+    <Age>18</Age>
+  </User>
+</Weather>

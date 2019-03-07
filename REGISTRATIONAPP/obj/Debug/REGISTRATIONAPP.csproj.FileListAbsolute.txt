@@ -1,0 +1,7 @@
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\obj\Debug\REGISTRATIONAPP.csprojAssemblyReference.cache
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\obj\Debug\REGISTRATIONAPP.csproj.CoreCompileInputs.cache
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\bin\Debug\REGISTRATIONAPP.exe.config
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\bin\Debug\REGISTRATIONAPP.exe
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\bin\Debug\REGISTRATIONAPP.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\obj\Debug\REGISTRATIONAPP.exe
+C:\Users\АйткожаЖ.CORP\source\repos\REGISTRATIONAPP\REGISTRATIONAPP\obj\Debug\REGISTRATIONAPP.pdb
